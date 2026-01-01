@@ -239,4 +239,4 @@ code privé
 
 ---
 
-**Note** : Les données utilisateur sont actuellement stockées en mémoire. Pour la production.
+**Note** : Les données utilisateur sont actuellement stockées en mémoire.
